@@ -1,5 +1,5 @@
 import {Injectable} from '@angular/core';
-import * as store from 'store';
+import store from 'store';
 
 
 @Injectable()
