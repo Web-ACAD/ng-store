@@ -5,17 +5,20 @@
 
 [Store](https://github.com/marcuswestin/store.js) wrapper for angular.
 
+## Dependencies
+
+* `@angular/core`
+* `store`
+
 ## Installation
 
 ```bash
-$ npm install --save store
 $ npm install --save @webacad/ng-store
 ```
 
 or with yarn
 
 ```bash
-$ yarn add store
 $ yarn add @webacad/ng-store
 ```
 
